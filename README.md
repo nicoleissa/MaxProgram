@@ -1,4 +1,4 @@
-# Maximum
+# MaxProgram
 > This Java program takes user input to compare two given positive integers and returns the greater number. The main class is the MaxNum class; this class accepts user input for the integers and compares them; if input is a negative integer, the program will terminate. 
 
 ## Table of Contents
